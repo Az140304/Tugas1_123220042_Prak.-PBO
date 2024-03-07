@@ -1,4 +1,5 @@
-Nama : Azhar Fikri H.
+Tugas 1 Praktikum Pemrograman Berorientasi Objek
+
 NIM : 123220042
 
 
